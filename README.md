@@ -1,7 +1,7 @@
 [![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)](https://algoritham-unlock.io)
 <h1 align="center">Hi 👋, I'm Bhuwan Chauhan</h1>
 <h3 align="center">A 3rd year B.Tech CSE (AI) Student from NIET</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algorithm-unlock&label=Profile%20views&color=0e75b6&style=flat" alt="algorithm-unlock" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algorithm-unlock" alt="algorithm-unlock" /></a> </p>
