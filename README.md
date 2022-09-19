@@ -39,6 +39,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algorithm-unlock&show_icons=true&locale=en&layout=compact" alt="algorithm-unlock" /></p>
 
+<h3>Oh God! The snake 🐍 has eaten my contribution graph.</h3>
+
 ![snake gif](https://github.com/Algorithm-Unlock/Algorithm-Unlock/blob/output/github-contribution-grid-snake.gif)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=algorithm-unlock&show_icons=true&locale=en" alt="algorithm-unlock" /></p>
