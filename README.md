@@ -37,7 +37,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bhuwanchauhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhuwanchauhan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algorithm-unlock&show_icons=true&locale=en&layout=compact" alt="algorithm-unlock" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=algorithm-unlock&show_icons=true&locale=en&layout=compact" alt="algorithm-unlock" /></p>
 
 <h3>Oh God! The snake 🐍 has eaten my contribution graph.</h3>
 
